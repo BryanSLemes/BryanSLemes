@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá Eu sou o Bryan Silva Lemes 👾
 
-<!--
-**BryanSLemes/BryanSLemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lemes-36492b23b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanSLemes&show_icons=true&theme=merko)
+
+## Tecnologias que utilizo no meu dia a dia
+
+<div style="display: inline_block">
+    <img src="java_icon.png" style="max-height:28px" alt="Imagem Java">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-height:28px" alt="Imagem Spring">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-height:28px" alt="Imagem JQuery">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-height:28px" alt="Imagem JavaScript">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-height:28px" alt="Imagem CSS">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-height:28px" alt="Imagem HTML">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-height:28px" alt="Imagem MySQL">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-height:28px" alt="Imagem MongoDB">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="max-height:28px" alt="Imagem Android">
+</div>
+
+<br>
+<br>
+
+## Tecnologias que mais utilizo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSLemes&layout=pie)
