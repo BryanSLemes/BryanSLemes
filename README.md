@@ -4,7 +4,10 @@
 
 [![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lemes-36492b23b/)
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanSLemes&show_icons=true&theme=merko)
+<div>
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=BryanSLemes&show_icons=true&theme=merko">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSLemes&layout=donut&theme=merko">
+</div>
 
 ## Tecnologias que utilizo no meu dia a dia
 
@@ -19,9 +22,3 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-height:28px" alt="Imagem MongoDB">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="max-height:28px" alt="Imagem Android">
 </div>
-
-<br>
-<br>
-
-## Tecnologias que mais utilizo
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSLemes&layout=pie)
