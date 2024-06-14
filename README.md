@@ -2,7 +2,7 @@
 
 <br>
 
-[![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lemes-36492b23b/)
+[![LinkEdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-silva-lemes/)
 
 <div>
     <img height="195em" src="https://github-readme-stats.vercel.app/api?username=BryanSLemes&show_icons=true&theme=merko">
@@ -12,7 +12,7 @@
 ## Tecnologias que utilizo no meu dia a dia
 
 <div style="display: inline_block">
-    <img src="java_icon.png" style="height:28px" alt="Imagem Java">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="max-height:28px" alt="Imagem Java">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="max-height:28px" alt="Imagem Spring">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="max-height:28px" alt="Imagem JQuery">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-height:28px" alt="Imagem JavaScript">
